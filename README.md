@@ -1,4 +1,4 @@
-v1.0⭐️
+.v1.0⭐️
 
 co to !CS! ? 
 !CS! to program do latwej kontroli swojego urządzenia za pomocą łatwych komend
